@@ -3,8 +3,6 @@ wall of shields
 standing strong
 on this battlefield
 add another line
-and another one
-<<<<<<< HEAD
+and another one bites the dust...
 asdasdsad
-=======
->>>>>>> parent of 291fc86 (finnish second part)
+
