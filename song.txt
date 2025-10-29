@@ -4,5 +4,7 @@ standing strong
 on this battlefield
 add another line
 and another one
+<<<<<<< HEAD
 asdasdsad
-dsfsdfdsf
+=======
+>>>>>>> parent of 291fc86 (finnish second part)
